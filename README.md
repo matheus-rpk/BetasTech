@@ -9,11 +9,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--   HTML
--   CSS
+-  HTML
+-  CSS
 -  JavaScript
 -  BOOTSTRAP
-
+-  Python
 #  :computer: Projeto
 
 
