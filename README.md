@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #  :computer: Projeto
 
 
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+O Nosso projeto consiste o aperfeiçoamento da interface atual da SEMEF e a inserção de chat robô no whatsapp para que o usuário possar fazer vários atendimentos sem aguardar um atendente.
 
 
 # :bookmark: Layout
