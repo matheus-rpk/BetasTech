@@ -26,4 +26,4 @@ memo Licença
 
 
 
-Feito com :hearts: by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.com/invite/gCRAFhc "Participe da nossa comunidade!")
+Feito com :hearts: by BetasTecH :wave: 
